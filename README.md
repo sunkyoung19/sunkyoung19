@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm student of Sungshin Women University.
+I'm currently learning various programming language. 
+I love traveling
 
 <!--
 **sunkyoung19/sunkyoung19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
